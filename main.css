@@ -1,9 +1,10 @@
 img{
-    width: 250px;
+    width: 150px;
 }
 
 li{
     float: left;
+    padding: 10px;
 }
 nav{
 float:right;
